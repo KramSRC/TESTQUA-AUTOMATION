@@ -1,0 +1,7 @@
+.Go-back {
+    margin-left: auto; /* Pushes the element to the right */
+    /* Must specify a width for margin-left: auto to work as intended */
+    width: 200px;
+    padding: 10px;
+    border: 1px solid black;
+}
